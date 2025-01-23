@@ -47,11 +47,10 @@ book-worm/
 
 ## 📷 Screenshots
 ### Light Mode:
-![Light Mode](![image](https://github.com/user-attachments/assets/3f964189-c238-466c-b56f-166cd8e1d968)
-)
+![image](https://github.com/user-attachments/assets/d7b1b226-b568-485e-9260-f77e51ac8c59)
+
 ### Dark Mode:
-![Dark Mode](![image](https://github.com/user-attachments/assets/9f2b9103-e4f6-4e0e-a464-74b61c5166f1)
-)
+![image](https://github.com/user-attachments/assets/a0fdef07-b0bb-413e-8b7e-cb51fc2aad0b)
 
 
 ## 🙌 Acknowledgments
